@@ -6,7 +6,7 @@ Repositório de **notas** e **exercícios pequenos** da pós (e estudos correlat
 - Aqui eu priorizo: **clareza**, **reprodutibilidade** e **documentação curta**.
 
 ## Índice (módulos)
-- `modules/01-fundamentos/` — fundamentos (LLMs, embeddings, transformers, etc.)
+- `modules/01-fundamentos-llms/` — fundamentos (LLMs, embeddings, transformers, etc.)
 - `modules/02-apis-e-prompts/`
 - `modules/03-mcp/`
 - `modules/04-agentes/`
